@@ -89,7 +89,7 @@ header#header {
 }
  #header.header-scrolled #logo {
     /* padding-left: 40px; */
-	max-width:120px;
+	max-width:100px;
   }
 @media (min-width: 1024px) {
   #header #logo {
